@@ -11,3 +11,7 @@ Basically, there are two types of Recommendation Engine, they are:
 	METHODOLOGY
 
 We have developed restaurant recommendation engine by using two different algorithms, one is based on latent factor and second is Neighborhood-Based method. Both methods are type of collaborative recommendation system. Collaborative recommendation is method which is based on user reviews and rating given for product. So, for restaurant recommendation system we have used Yelp dataset for customer’s reviews and built recommendation engine. 
+
+References:
+https://medium.com/@medfordxie/neighborhood-vs-latent-factors-methods-in-collaborative-filter-recommender-systems-part-1-9f969c4990b0
+https://medium.com/@rabinpoudyal1995/latent-factor-based-method-in-collaborative-filtering-77756a02f675
