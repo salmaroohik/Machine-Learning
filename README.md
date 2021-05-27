@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning Project
 
 
 Our project involves restaurant input dataset which uses latent vector collaborative filtering. This recommendation engine can be used to locate the restaurants if you are new to the city and also if you're not sure about what is best around. Also, this paper includes the types of recommendation engine and a brief overlook on this. Further we have tried two different methodologies in collaborative filtering and compared their outcomes.
